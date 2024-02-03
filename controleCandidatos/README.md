@@ -1,1 +1,1 @@
-Projeto para simular um processo seletivo de candidato, com base no valor pretendido pelo candidato e valor proposto pela empresa.
+Criando Um Pequeno Sistema Para Validação de Processo Seletivo
